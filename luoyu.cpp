@@ -7,5 +7,6 @@ int main()
     cin>>a,b;
     cout<<a+b;
     cout << "Hello world" << endl;
+    cout<<"你好";
     
 }
